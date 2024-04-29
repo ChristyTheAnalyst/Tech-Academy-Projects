@@ -1,1 +1,1 @@
-Seconf sample text file created from Git Bash using echo command
+Second sample text file created from Git Bash using echo command
